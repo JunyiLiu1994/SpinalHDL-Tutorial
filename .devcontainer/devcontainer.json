@@ -1,0 +1,14 @@
+{
+	"name": "spinalhdl-basic",
+	"image": "spinalhdl-basic",
+
+	"customizations": {
+		"vscode": {
+			"extensions": ["scalameta.metals"]
+		}
+	},
+
+	"containerEnv": {
+		"SHELL": "/bin/bash"
+	},
+}
